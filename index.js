@@ -1,4 +1,4 @@
-const respostas = ["improvável", "acho que não", "tem grandes chances", "bora que vai"]
+const respostas = ["improvável", "acho que não", "impossível", "sem a minima chance", "tem grandes chances", "bora que vai", "com certeza", "é claro que sim", "nossos telepatas estão com dificuldades tecnicas, tente novamente", "a nossa bola de cristal rachou, tente novamente", "o futuro está em manutenção, tente novamente mais tarde"]
 
 //const elementoResposta = document.getElementById("resposta")
 
